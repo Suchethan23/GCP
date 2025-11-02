@@ -56,6 +56,7 @@ By referencing a custom image in a template:
 ```bash
 echo "<h1>Server Initialized</h1>" > /var/www/html/index.html
 service apache2 start
+```
 
 
 ## Security Hardening

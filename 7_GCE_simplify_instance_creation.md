@@ -51,6 +51,8 @@ An **Instance Template** stores all the configuration details of a virtual machi
 - Startup script  
 
 Once created, this template can be used to launch one or more VM instances with identical configurations.
+Once you create an instance template, you cannot change it.
+What you can do is actually make a copy of the existing template and change it and create a new version of it.
 
 ---
 
